@@ -1,4 +1,7 @@
 # SignatureDom.github.io
+
+# signaturedom.github.io/privacy.html
+
 <h1>Privacy Policy</h1>
 <p>Connects Google Home to Home Assistant</p>
 <p>No personal data is sold or shared with third parties</p>
